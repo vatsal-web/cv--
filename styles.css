@@ -1,0 +1,62 @@
+body
+		{
+			background-color:#EAF6F6;
+		}
+
+		
+		
+		
+		/********************************TAG SELECTORS*********************************/
+
+
+
+		
+        h1{
+            color: #66bfbf;
+        }
+        h3{
+            color:#66bfbf;
+        }
+		hr{
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 5px;
+			width: 5%;
+
+			
+			
+		}
+		img:hover { 
+			background-color:gold;  /****pseudo classes****/ 
+		}
+
+		
+		
+		/**********************************CLASS SELECTORS******************************/
+
+
+
+		.vatsal{
+			background-color:  royalblue;
+		}
+		.mahadev
+		{
+			background-color: orange;
+		}
+		
+		
+		
+		
+		/************************************** ID SELECTORS **************************/
+
+
+
+		#heading
+		{
+			color: blue;
+		}
+		#contact
+		{
+			color: chartreuse;
+		}
